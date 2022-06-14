@@ -1,0 +1,27 @@
+input{
+    width:500px;
+    height: 50px;
+
+    border: none;
+    background-color: white;
+    padding-left: 15px;
+    margin-top: 15px;
+}
+
+select{
+    width:512px;
+    height: 50px;
+
+    border: none;
+    background-color: white;
+    padding-left: 15px;
+
+    margin-top: 15px;
+}
+#btn{
+    margin-left: 50px;
+    margin-top: 15px;
+
+    width:200px;
+    height:30px
+}
